@@ -1,6 +1,7 @@
 # Quiz-App
 
-this is a Quiz App made using HTML, CSS & JavaScript.
+This is a Quiz App made using HTML, CSS & JavaScript.
+It is in its initial phase more development is required where you can insert a pdf and automatically questions will be visible on the web app.
 --------------------------------------------------------------------------------------------------------------------------------------------
 link- https://skykunnu.github.io/Quiz-App/
 --------------------------------------------------------------------------------------------------------------------------------------------
