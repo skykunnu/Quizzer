@@ -33,6 +33,7 @@ body {
 .container .question {
   font-size: 26px;
   margin-top: 20px;
+  color: #F57D1F;
 }
 
 .container .choices {
